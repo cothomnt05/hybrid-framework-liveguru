@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+  <test name="LiveGuru">
+  <parameter name = "browser" value = "firefox"/>
+    <classes>
+      <class name="com.liveguru.user.TC_01_Register_Success_To_System"/>
+    </classes>
+  </test>
+  
+</suite>
